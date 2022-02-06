@@ -4,11 +4,7 @@
 - 💞️ I’m looking to collaborate on ... I'm seeking something to collaborate on.
 - 📫 How to reach me ...
 
-  Twitter: https://twitter.com/sinceretron
-  
-  Instagram: https://www.instagram.com/kazuki_maehara_/
-  
-  Facebook: https://www.facebook.com/kazuki.maehara.9
+
   
  
 <!---
