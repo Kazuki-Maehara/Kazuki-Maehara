@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Kazuki-Maehara
 - 👀 I’m interested in all of technologies.
-- 🌱 I’m currently learning Django and JavaScript. I'd love to be a lifelong learner.
+- 🌱 I’m currently learning Django, JavaScript and Golang. I'd love to be a lifelong learner.
 - 💞️ I’m looking to collaborate on ... I'm seeking something to collaborate on.
 - 📫 How to reach me ...
 
-Instagram: https://www.instagram.com/kazuki_maehara_/
   
  
 <!---
