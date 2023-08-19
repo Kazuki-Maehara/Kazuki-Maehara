@@ -2,7 +2,7 @@
 - 👀 I’m interested in all of technologies.
 - 🌱 I’m currently learning Django, JavaScript, Golang, Docker, Odoo and Rust. I'd love to be a lifelong learner.
 - 💞️ I'm seeking something to collaborate on.
-- 📫 How to reach me ... of course you can jump on to my web site!
+- 📫 How to reach me ... of course you can jump on to my web site! https://kazuki-maehara.com/note/
 
   
  
